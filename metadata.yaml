@@ -1,0 +1,30 @@
+_repo: The-Legacy-of-Greece--13-Essays-By--Gilbert-Murray-W.-R.-Inge-J.-Burnet-Sir-T.-L.-Heath-D-arc__22259
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Livingstone, Richard Winn, Sir
+    alias: Livingstone, R. W. (Richard Winn), Sir
+    birthdate: 1880
+    deathdate: 1960
+    gutenberg_agent_id: '25218'
+    url: http://www.gutenberg.org/2009/agents/25218
+description: ''
+gutenberg_bookshelf: Greece
+gutenberg_issued: '2007-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22259'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- Civilization'
+- !lcc 'DF'
+title: "The Legacy of Greece\r\nEssays By: Gilbert Murray, W. R. Inge, J. Burnet,\
+  \ Sir T. L. Heath, D'arcy W. Thompson, Charles Singer, R. W. Livingston, A. Toynbee,\
+  \ A. E. Zimmern, Percy Gardner, Sir Reginald Blomfield"
+url: http://www.gutenberg.org/ebooks/22259
