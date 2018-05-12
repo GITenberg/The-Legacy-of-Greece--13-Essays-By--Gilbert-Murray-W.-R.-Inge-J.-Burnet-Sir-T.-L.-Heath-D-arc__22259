@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25218'
     url: http://www.gutenberg.org/2009/agents/25218
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22259#The-Legacy-of-Greece--13-Essays-By--Gilbert-Murray-W.-R.-Inge-J.-Burnet-Sir-T.-L.-Heath-D-arc_
 gutenberg_bookshelf: Greece
 gutenberg_issued: '2007-08-06'
 gutenberg_type: Text
